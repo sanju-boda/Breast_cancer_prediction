@@ -7,7 +7,7 @@ A Machine Learning web application that predicts whether a breast tumor is **mal
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## 🌐 Live Demo
-👉 [Click here to try the app](https://your-app-name.streamlit.app)
+👉 [Click here to try the app]https://breastcancerprediction-s4m2wahtpcjfqy6vfq77ve.streamlit.app/
 
 
 breast_cancer/ ├── app.py ├── ml_models/ │ ├── svm_model.pkl │ ├── scaler.pkl │ ├── worst_estimator.pkl │ └── se_estimator.pkl ├── requirements.txt ├── LICENSE └── README.md
